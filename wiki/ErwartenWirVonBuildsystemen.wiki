@@ -1,0 +1,10 @@
+Erwartungen an Buildsysteme:
+   * CRISP (Thomas, schreibst du was dazu?)
+   * Standards funktionieren OutOfTheBox, extras sind möglich
+   * Wartbarkeit
+   * Modularisierbarkeit
+   * Ablaufsteuerung
+   * Testintegration
+   * IDE Integration
+   * Reporting
+   * Performant genug
