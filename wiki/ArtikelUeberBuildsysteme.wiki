@@ -9,4 +9,4 @@ Add your content here.
 
    * http://java.dzone.com/news/whats-wrong-build-systems-java - ein interessanter Artikel, darüber, was so alles nicht gut ist ... und die Ankündigung eines neuen Buildsystems - auf unserer Linie
    * http://java-source.net/open-source/build-systems - eine Übersicht über Buildsysteme, kennt einer von euch Ivy, JAM, Schmant oder LuntBuild?
-   * en.wikipedia.org/w/index.php=Build_automation
+   * http://en.wikipedia.org/w/index.php=Build_automation
