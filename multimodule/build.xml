@@ -1,0 +1,49 @@
+<project name="Yucon" default="updateAndBuildWithMaven" basedir=".">
+	<property file="build.properties" />
+
+	
+	<macrodef name="mvn">
+		<attribute name="goal"/>
+		<attribute name="failonerror" default="true"/>
+		<sequential>
+			<exec 
+				executable	= "${maven.exe}"
+				dir			= "."
+				failonerror = "@{failonerror}"
+			>
+				<arg value="@{goal}" />
+				<env key="MAVEN_OPTS" value="-Xmx512m -Djava.awt.headless=true" />
+			</exec>
+		</sequential>
+	</macrodef>
+
+	
+	<target name="update">
+		<cvs command="-d :pserver:cruiseewp:ewpcontr@53.139.180.25:/data/cvs update -r ${cvs.branch} -dPCA" quiet="true" reallyquiet="true" failonerror="true" />
+	</target>
+
+
+	<target name="buildWithMaven">
+		<mvn goal="clean"/>
+		<mvn goal="test"/>
+	</target>
+
+
+	<target name="updateAndBuildWithMaven" depends="update, buildWithMaven" />
+
+
+	<target name="_buildSiteWithMaven">
+		<mvn goal="install"/>
+		<mvn goal="site"/>
+		<mvn goal="javancss:report"/> 
+		<mvn goal="dashboard-report:persist"/> 
+		<mvn goal="dashboard-report:dashboard"/> 
+		<mvn goal="site:deploy"/>
+	</target>
+	
+	
+	<target name="buildSiteWithMaven" depends="updateAndBuildWithMaven, _buildSiteWithMaven"/>
+
+
+	<target name="nop" />
+</project>

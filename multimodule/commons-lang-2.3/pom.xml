@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>de.wieger</groupId>
+        <artifactId>multimodule</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <name>Lang</name>
+    <groupId>commons-lang</groupId>
+    <artifactId>commons-lang</artifactId>
+    <version>2.3</version>
+    <description></description>
+    <dependencies>
+    </dependencies>
+
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <configuration>
+                    <skip>false</skip>
+                    <testFailureIgnore>true</testFailureIgnore>
+                    <printSummary>true</printSummary>
+                    <forkMode>once</forkMode>
+                    <trimStackTrace>false</trimStackTrace>
+                    <jvm>${JAVA_HOME}/bin/java</jvm>
+                    <argLine>
+                        -Xms512m -Xmx1500m -Djava.awt.headless=true
+                    </argLine>
+                    <includes>
+                        <include>**/*TestSuite.java</include>
+                    </includes>
+                    <excludes>
+                        <exclude>**/AllLangTestSuite.java</exclude>
+                    </excludes>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
