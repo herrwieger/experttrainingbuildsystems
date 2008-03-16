@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profiles>
+    <profile>
+        <properties>
+            <workspace.dir>C:/Work/Home/maven2_multimodule</workspace.dir>
+            <siteDeployment.dir>C:/Temp/multiModuleReports</siteDeployment.dir>
+            <JAVA_HOME>C:/Apps/Java/jdk1.5.0_07</JAVA_HOME>
+        </properties>
+    </profile>
+</profiles>
