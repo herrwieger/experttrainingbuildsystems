@@ -1,12 +1,13 @@
-#summary One-sentence summary of this page.
+#summary Überblick über interessante Artikel im Netz
 
-= Introduction =
+= Einführung =
 
-Add your content here.
-
+Nachfolgend ein Überblick über interessante Artikel im Netz.
 
 = Details =
 
-   * http://java.dzone.com/news/whats-wrong-build-systems-java - ein interessanter Artikel, darüber, was so alles nicht gut ist ... und die Ankündigung eines neuen Buildsystems - auf unserer Linie
-   * http://java-source.net/open-source/build-systems - eine Übersicht über Buildsysteme, kennt einer von euch Ivy, JAM, Schmant oder LuntBuild?
-   * http://en.wikipedia.org/w/index.php=Build_automation
+ * http://java.dzone.com/news/whats-wrong-build-systems-java - ein interessanter Artikel, darüber, was so alles nicht gut ist ... und die Ankündigung eines neuen Buildsystems - auf unserer Linie
+ * http://java-source.net/open-source/build-systems - eine Übersicht über Buildsysteme, kennt einer von euch Ivy, JAM, Schmant oder LuntBuild?
+ * http://en.wikipedia.org/w/index.php=Build_automation
+ * [http://www.onjava.com/pub/a/onjava/2007/12/05/introducing-raven-an-elegant-build-for-java.html Raven] - Raven ist ein vielleicht interessantes build-system das auf Ruby und Rake basiert
+ * [http://martinfowler.com/articles/rake.html Rake] - Martin Fowler hat natürlich auch zu diesem Thema etwas interessantes zu erzählen
