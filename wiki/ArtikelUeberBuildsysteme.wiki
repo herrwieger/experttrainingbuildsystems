@@ -1,11 +1,15 @@
-#summary Überblick über interessante Artikel im Netz
+#summary Überblick über interessante Bücher zum Thema und Artikel im Netz
 
 = Einführung =
 
-Nachfolgend ein Überblick über interessante Artikel im Netz.
+Nachfolgend ein Überblick über interessante Bcher und Artikel im Netz.
 
-= Details =
+= Bücher =
 
+* [http://www.pragprog.com/titles/auto Pragmatic Project Automation] aus dem Pragmatic Bookshelf
+* [http://www.devzuz.com/web/guest/products/resources#BBWM Better builds with Maven] - behandel Maven 2. Ausserdem kostet das Buch nichts. Ist aber trotzdem sehr gut und vollständig. Eine prima Sache!
+
+= Artikel im Netz =
  * http://java.dzone.com/news/whats-wrong-build-systems-java - ein interessanter Artikel, darüber, was so alles nicht gut ist ... und die Ankündigung eines neuen Buildsystems - auf unserer Linie
  * http://java-source.net/open-source/build-systems - eine Übersicht über Buildsysteme, kennt einer von euch Ivy, JAM, Schmant oder LuntBuild?
  * http://en.wikipedia.org/w/index.php=Build_automation
