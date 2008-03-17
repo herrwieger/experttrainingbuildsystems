@@ -1,6 +1,6 @@
 Erwartungen an Buildsysteme:
    * Einfach, Standards funktionieren OutOfTheBox, extras sind möglich
-   * CRISP (Thomas, schreibst du was dazu?)
+   * [CRISP] - Complete, Repeatable, Informative, Schedulabe, Portable
    * Erstellt Artefakte reproduzierbar
    * Wartbarkeit / Modularisierbarkeit / Beschreibung von Abhängigkeiten
    * Musterstruktur für Java-Projekte / SQL-Scripte / Release Letters / Reports
