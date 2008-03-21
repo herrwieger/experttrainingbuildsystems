@@ -1,0 +1,4 @@
+=Bootstraping mit mvn=
+Um die Umgebung zu Bootstrapen wird benötigt:
+  * Entwicklung: java, Eclipse mit subclipse [weitere Plugins: M2]
+  * Build: java, svn
