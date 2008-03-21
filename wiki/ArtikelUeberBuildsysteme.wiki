@@ -8,6 +8,7 @@ Nachfolgend ein Überblick über interessante Bcher und Artikel im Netz.
 
  * [http://www.pragprog.com/titles/auto Pragmatic Project Automation]
  * [http://www.devzuz.com/web/guest/products/resources#BBWM Better builds with Maven] - behandelt Maven 2. Ausserdem kostet das Buch nichts. Ist aber trotzdem sehr gut und vollständig. Eine prima Sache!
+ * [http://www.sonatype.com/book/ Maven: The Definitive Guide] - noch ein Buch über Maven 2.  Es kann ebenfalls kostenlos downgeloaded werden.
 
 = Artikel im Netz =
  * http://java.dzone.com/news/whats-wrong-build-systems-java - ein interessanter Artikel, darüber, was so alles nicht gut ist ... und die Ankündigung eines neuen Buildsystems - auf unserer Linie
