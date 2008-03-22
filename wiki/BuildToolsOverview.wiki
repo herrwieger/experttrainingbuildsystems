@@ -1,25 +1,23 @@
-#Ein Überblick über interessante Build-Werkzeuge
-
 Ein Überblick über interessante Build-Werkzeuge
 
-!Java-basierte Werkzeuge
- * [ant.apache.org ANT]. Folgende Tools ergänzen ANT mit DependencyManagement.
- ** [http://ant.apache.org/ivy/index.html Ivy]
- ** [https://savant.dev.java.net Savant]
- ** [http://maven.apache.org/ant-tasks.html ]
- * [maven.apache.org Maven 2]
+=Java-basierte Werkzeuge=
+ * [http://ant.apache.org ANT]. Folgende Tools ergänzen ANT mit DependencyManagement.
+  * [http://ant.apache.org/ivy/index.html Ivy]
+  * [https://savant.dev.java.net Savant]
+  * [http://maven.apache.org/ant-tasks.html Maven Ant Tasks]
+ * [http://maven.apache.org Maven 2]
 
-!Ruby
+=Ruby=
 
  * [http://rake.rubyforge.org/ Rake]. Folgende Derivate erweitern Rake:
- ** [http://raven.rubyforge.org/ Raven]
- ** [http://incubator.apache.org/buildr/projects.html Buildr]
+  * [http://raven.rubyforge.org/ Raven]
+  * [http://incubator.apache.org/buildr/projects.html Buildr]
 
-!Groovy
+=Groovy=
 
-* [http://groovy.codehaus.org/Using+Ant+from+Groovy AntBuilder].
-* [http://gant.codehaus.org/ Gant]
+ * [http://groovy.codehaus.org/Using+Ant+from+Groovy AntBuilder].
+ * [http://gant.codehaus.org/ Gant]
 
-!Python
+=Python=
 
-* [http://myarch.com/ant-scripts-without-xml-jython-ant-wrapper Pant]
+ * [http://myarch.com/ant-scripts-without-xml-jython-ant-wrapper Pant]
