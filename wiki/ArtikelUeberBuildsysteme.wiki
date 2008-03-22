@@ -16,3 +16,4 @@ Nachfolgend ein Überblick über interessante Bcher und Artikel im Netz.
  * http://en.wikipedia.org/w/index.php=Build_automation
  * [http://www.onjava.com/pub/a/onjava/2007/12/05/introducing-raven-an-elegant-build-for-java.html Raven] - Raven ist ein vielleicht interessantes build-system das auf Ruby und Rake basiert
  * [http://martinfowler.com/articles/rake.html Rake] - Martin Fowler hat natürlich auch zu diesem Thema etwas interessantes zu erzählen
+ * [http://www.ibm.com/developerworks/library/j-pg12144.html Ant scripting with Groovy]
