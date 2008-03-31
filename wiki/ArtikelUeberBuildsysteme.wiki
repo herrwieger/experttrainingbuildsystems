@@ -17,3 +17,11 @@ Nachfolgend ein Überblick über interessante Bcher und Artikel im Netz.
  * [http://www.onjava.com/pub/a/onjava/2007/12/05/introducing-raven-an-elegant-build-for-java.html Raven] - Raven ist ein vielleicht interessantes build-system das auf Ruby und Rake basiert
  * [http://martinfowler.com/articles/rake.html Rake] - Martin Fowler hat natürlich auch zu diesem Thema etwas interessantes zu erzählen
  * [http://www.ibm.com/developerworks/library/j-pg12144.html Ant scripting with Groovy]
+
+= Details zu Maven 2 =
+
+ * [http://www.eclipse.org/articles/article.php?file=Article-Eclipse-and-Maven2/index.html Eclipse und Maven 2]. Die Autoren haben übrigens einige Probleme mit dem "Flat Layout"
+
+==Kritik an Maven 2==
+
+ * [http://tapestryjava.blogspot.com/2007/11/maven-wont-get-fooled-again.html Howard Lewis Ship vom Tapestry Projekt blogged]
