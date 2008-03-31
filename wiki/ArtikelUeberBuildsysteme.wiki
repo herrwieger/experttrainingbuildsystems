@@ -25,3 +25,5 @@ Nachfolgend ein Überblick über interessante Bcher und Artikel im Netz.
 ==Kritik an Maven 2==
 
  * [http://tapestryjava.blogspot.com/2007/11/maven-wont-get-fooled-again.html Howard Lewis Ship vom Tapestry Projekt blogged]
+ * [http://java.dzone.com/news/don-brown-fixing-maven-2 Fixing Maven 2]
+ * [http://www.jroller.com/mrdon/entry/making_maven_2_not_suck Making Maven 2 Not Suck]
