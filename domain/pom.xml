@@ -6,9 +6,8 @@
         <artifactId>parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>build-example</groupId>
   <artifactId>domain</artifactId>
-  <name/>
+  <name>Domain</name>
   <version>0.0.1-SNAPSHOT</version>
   <description/>
   <dependencies>
