@@ -21,6 +21,10 @@ Auf dieser Seite schauen wir Maven 2 unter die Motorhaube.
 
  * CompilerMojo
 
+= Wichtige Konfigurationsdateien =
+
+ * maven-core\src\main\resources\META-INF\plexus\components.xml. Hier sind die default Lifecycles und Phasen definiert.
+
 = Maven starten =
 
 {{{
