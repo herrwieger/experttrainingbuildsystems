@@ -4,5 +4,8 @@
 	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Library/Java/log4j/log4j/1.2.14/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Library/Java/commons-lang/commons-lang/2.3/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Library/Java/commons-collections/commons-collections/3.2/commons-collections-3.2.jar"/>
 	<classpathentry kind="output" path="target-eclipse/classes"/>
 </classpath>
