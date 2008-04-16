@@ -25,9 +25,6 @@
                     <forkMode>once</forkMode>
                     <trimStackTrace>false</trimStackTrace>
                     <jvm>${JAVA_HOME}/bin/java</jvm>
-                    <argLine>
-                        -Xms512m -Xmx1500m -Djava.awt.headless=true
-                    </argLine>
                 </configuration>
             </plugin>
 
