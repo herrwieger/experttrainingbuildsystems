@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<profiles>
-    <profile>
-        <properties>
-            <workspace.dir>C:/Work/Home/build_systems/trunk</workspace.dir>
-            <siteDeployment.dir>file:///C:/Temp/reports/</siteDeployment.dir>
-        </properties>
-    </profile>
-</profiles>
