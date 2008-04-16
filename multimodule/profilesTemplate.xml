@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<profiles>
-	<profile>
-		<properties>
-			<ewpworkspace.dir>C:/Work/EWP/workspaces/main</ewpworkspace.dir>
-			<siteDeployment.dir>C:/Temp/yuconReports</siteDeployment.dir>
-		</properties>
-	</profile>
-</profiles>
