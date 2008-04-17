@@ -11,5 +11,7 @@ REM -----------------------------------------------
 REM Derived properties. NO customization necessary
 REM -----------------------------------------------
 
-set PATH=%PATH%;%~dp0\seu\maven\maven-2.0.9\bin;%JAVA_HOME%\bin
+set M2_HOME=%~dp0seu\maven\apache-maven-2.0.9
+set M2=%M2_HOME%\bin
+set PATH=%M2%;%PATH%;%JAVA_HOME%\bin
 set MAVEN_OPTS="-Xmx512m"
