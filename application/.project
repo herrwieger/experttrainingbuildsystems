@@ -3,6 +3,8 @@
 	<name>application</name>
 	<comment></comment>
 	<projects>
+		<project>domain</project>
+		<project>money</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
