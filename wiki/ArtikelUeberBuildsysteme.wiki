@@ -17,6 +17,7 @@ Nachfolgend ein Überblick über interessante Bcher und Artikel im Netz.
  * [http://www.onjava.com/pub/a/onjava/2007/12/05/introducing-raven-an-elegant-build-for-java.html Raven] - Raven ist ein vielleicht interessantes build-system das auf Ruby und Rake basiert
  * [http://martinfowler.com/articles/rake.html Rake] - Martin Fowler hat natürlich auch zu diesem Thema etwas interessantes zu erzählen
  * [http://www.ibm.com/developerworks/library/j-pg12144.html Ant scripting with Groovy]
+ * http://www.ordix.de/ORDIXNews/4_2007/Java_J2EE_JEE/maven_build_management.html - ein Erfahrungsbericht von einer Firma Orbix
 
 = Details zu Maven 2 =
 
