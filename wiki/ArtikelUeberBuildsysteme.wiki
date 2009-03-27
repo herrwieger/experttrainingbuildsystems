@@ -2,13 +2,16 @@
 
 = Einführung =
 
-Nachfolgend ein Überblick über interessante Bcher und Artikel im Netz.
+Nachfolgend ein Überblick über interessante Bücher und Artikel im Netz.
 
 = Bücher =
 
  * [http://www.pragprog.com/titles/auto Pragmatic Project Automation]
  * [http://www.devzuz.com/web/guest/products/resources#BBWM Better builds with Maven] - behandelt Maven 2. Ausserdem kostet das Buch nichts. Ist aber trotzdem sehr gut und vollständig. Eine prima Sache!
  * [http://www.sonatype.com/book/ Maven: The Definitive Guide] - noch ein Buch über Maven 2.  Es kann ebenfalls kostenlos downgeloaded werden.
+ * [http://www.sonatype.com/products/maven/documentation/book-defguide Maven - The definitive guide]. A book about maven with contributions of maven developers. The link leads to a site where you can download the book and examples.
+ * [http://m2eclipse.codehaus.org/ Maven Eclipse Plugin]: Integration of Maven2 into eclipse development environment. [http://www.sonatype.com/m2eclipse/documentation/download-book?file=books/m2eclipse-book.pdf Here] you can find a book about that plugin. Its written by the plugins developers!
+
 
 = Artikel im Netz =
  * http://java.dzone.com/news/whats-wrong-build-systems-java - ein interessanter Artikel, darüber, was so alles nicht gut ist ... und die Ankündigung eines neuen Buildsystems - auf unserer Linie
@@ -18,6 +21,7 @@ Nachfolgend ein Überblick über interessante Bcher und Artikel im Netz.
  * [http://martinfowler.com/articles/rake.html Rake] - Martin Fowler hat natürlich auch zu diesem Thema etwas interessantes zu erzählen
  * [http://www.ibm.com/developerworks/library/j-pg12144.html Ant scripting with Groovy]
  * http://www.ordix.de/ORDIXNews/4_2007/Java_J2EE_JEE/maven_build_management.html - ein Erfahrungsbericht von einer Firma Orbix
+ * [http://www.iternum.com/knowhow/guidelines/maven-vs-ant/document.pdf Maven Sucks - No(w) really]. Maven ist dabei Ant als Standardbuildsystem für JEE Anwendungen zu ersetzen. Sind seine oft geschilderten Vorzüge wirklich praxisrelevant. Der Artikel schlüsselt die Komplexität eines Maven und eines Ant Builds an Hand einer typischen Applikation auf (Englisch).
 
 = Details zu Maven 2 =
 
